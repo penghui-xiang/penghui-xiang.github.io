@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiang Penghui's academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
