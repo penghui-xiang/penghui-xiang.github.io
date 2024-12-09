@@ -13,4 +13,4 @@ I obtained MA in English Language and Literature from Hunan University.
 
 It is my honour to be advised by [Prof. Winnie Chor](https://scholars.hkbu.edu.hk/en/persons/WOWCHOR)!
 
-My [CV](../assets/CV.pdf).
+My [CV](../assets/CV.pdf) (Last update: 2024 Dec).
